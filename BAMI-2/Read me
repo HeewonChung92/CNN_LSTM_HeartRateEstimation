@@ -1,0 +1,6 @@
+The data comprised three-channel PPG signals and three-axis Acceleration signals sampled at 50 Hz.
+In the BAMI-2 dataset (n=23), 
+the exercise protocol included 1 min of rest, 2 min of walking at 3-4 km/h, 2 min of running at 6-8 km/h, 
+2 min of running at 6-8 km/h (grab the bar), 2 min of walking at 3-4 km/h, 
+2 min of walking at 3-4 km/h (grab the bar), and 1 min of walking.
+The entire exercise process was performed on a treadmill. 
