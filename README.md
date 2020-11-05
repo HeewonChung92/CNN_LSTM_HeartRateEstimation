@@ -3,6 +3,7 @@ CNN-LSTM based Heart Rate Estimation from PPG and Accleration
 
 ***Paper***  
 Deep Learning for Heart Rate Estimation from Reflectance Photoplethysmography with Acceleration Power Spectrum and Acceleration Intensity. with IEEE Access.
+Link: https://ieeexplore.ieee.org/document/9042276
 
 ***Abstract***  
 We propose a new deep neural network based on multiclass and non-uniform multilabel classification for HR estimation. In our proposed model, we used two power spectra of PPG and acceleration signals along with the acceleration intensity for the input layer. The proposed model comprised of two convolutional layers, two LSTM layers, one concatenation layer, and three fully connected layers including a softmax. In the proposed model, we also presented a new scheme to evaluate the loss value by modifying the true HR value into Gaussian distribution. 
